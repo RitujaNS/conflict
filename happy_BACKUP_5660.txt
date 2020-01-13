@@ -2,11 +2,11 @@ I am happy..
 Today is monday...
 Let's learn something new..!!
 
-
+<<<<<<< HEAD
 
 It's a new day !!
 It's a new day !!
 It's a new day !!
-
+=======
 It's the new day !!!
-
+>>>>>>> Repo2 updated happy.txt
